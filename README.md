@@ -13,7 +13,7 @@ A Discord bot that automatically joins a support waiting room and plays audio fi
 ![Discord](https://img.shields.io/badge/Discord-Bot-blue?style=for-the-badge)  
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.8-blueviolet?style=for-the-badge)  
 ![JDA](https://img.shields.io/badge/JDA-5.0.0--alpha-orange?style=for-the-badge)  
-![Lavaplayer](https://img.shields.io/badge/Lavaplayer-1.3-red?style=for-the-badge)  
+![Lavaplayer](https://img.shields.io/badge/Lavaplayer-1.3.77-red?style=for-the-badge)  
 
 </div>
 
