@@ -21,12 +21,18 @@ kotlin {
     jvmToolchain(22)
 }
 
+val kotlinxSerializationVersion = "1.7.3"
+val kamlVersion = "0.65.0"
+
 val jdaVersion = "5.2.1"
 val jdaKtxVersion = "0.12.0"
 val logbackVersion = "1.5.6"
 val lavaPlayerVersion = "1.3.77"
 
 dependencies {
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:$kotlinxSerializationVersion")
+    implementation("com.charleskorn.kaml:kaml:$kamlVersion")
+
     implementation("net.dv8tion:JDA:$jdaVersion") {
         exclude(module = "opus-java")
     }
