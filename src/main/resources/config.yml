@@ -1,0 +1,8 @@
+# Bot token
+token: ""
+
+# Channel id of the support channel
+support_channel_id: ""
+
+# Audio to play during the wait time
+audio_file_name: ""
