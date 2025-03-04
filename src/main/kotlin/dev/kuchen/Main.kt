@@ -3,8 +3,6 @@ import net.dv8tion.jda.api.entities.channel.concrete.VoiceChannel
 import net.dv8tion.jda.api.events.guild.voice.GuildVoiceUpdateEvent
 import net.dv8tion.jda.api.hooks.ListenerAdapter
 import javax.security.auth.login.LoginException
-import java.io.File
-import java.io.InputStream
 
 fun main() {
     val token = ""
